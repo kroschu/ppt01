@@ -1,0 +1,7 @@
+.file-setting{
+    color: yellow;
+}
+#incallback,#outcallback{
+    margin-top:10px;
+    background-color: rgba(142, 0, 187, 1);
+}
