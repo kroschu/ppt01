@@ -1,6 +1,6 @@
 title: Презентація кандидата та посаду інженера
 speaker: Володимир Коваленко
-url: http://git.treba.tk:81
+url: htts://ppt01.treba.tk
 transition: zoomin/cards/slide/
 files: /css/ksua.css,/js/demo.js,/css/demo.css,/js/zoom.js
 theme: light
@@ -40,4 +40,4 @@ theme: light
 
 
 [slide]
-## 
+##
